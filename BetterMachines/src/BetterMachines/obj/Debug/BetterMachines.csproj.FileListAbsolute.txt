@@ -1,0 +1,5 @@
+C:\DSP-Mods-master\Mods\BetterMachines\src\BetterMachines\obj\Debug\BetterMachines.csproj.AssemblyReference.cache
+C:\DSP-Mods-master\Mods\BetterMachines\src\BetterMachines\obj\Debug\BetterMachines.GeneratedMSBuildEditorConfig.editorconfig
+C:\DSP-Mods-master\Mods\BetterMachines\src\BetterMachines\obj\Debug\BetterMachines.AssemblyInfoInputs.cache
+C:\DSP-Mods-master\Mods\BetterMachines\src\BetterMachines\obj\Debug\BetterMachines.AssemblyInfo.cs
+C:\DSP-Mods-master\Mods\BetterMachines\src\BetterMachines\obj\Debug\BetterMachines.csproj.CoreCompileInputs.cache
